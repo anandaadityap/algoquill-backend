@@ -1,0 +1,16 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Api documentation for AlgoQuill",
+        "title": "Api for AlgoQuill",
+        "contact": {
+            "name": "AlgoQuill",
+            "url": "http://www.algoquill.com/support",
+            "email": "anandaadityaputra11@gmail.com"
+        },
+        "version": "1.0.0"
+    },
+    "host": "localhost:8080",
+    "basePath": "/",
+    "paths": {}
+}

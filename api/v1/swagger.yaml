@@ -1,0 +1,12 @@
+basePath: /
+host: localhost:8080
+info:
+  contact:
+    email: anandaadityaputra11@gmail.com
+    name: AlgoQuill
+    url: http://www.algoquill.com/support
+  description: Api documentation for AlgoQuill
+  title: Api for AlgoQuill
+  version: 1.0.0
+paths: {}
+swagger: "2.0"
